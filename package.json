@@ -1,0 +1,23 @@
+{
+    "name": "phantomizer-html-dirlisting",
+    "version": "0.1.1",
+    "private": true,
+    "description": "Phantomizer HTML directory listing template support",
+    "keywords": "",
+    "bugs": {
+        "url" : "http://github.com/maboiteaspam/phantomizer-html-dirlisting/issues"
+        , "email" : "none@host.com"
+    },
+    "license" : "mit",
+    "directories.lib": "lib/",
+    "repository" :{
+        "type" : "git"
+        , "url" : "http://github.com/maboiteaspam/phantomizer-html-dirlisting.git"
+    },
+    "main": "lib/main.js",
+    "dependencies": {
+        "ejs": "0.8.x"
+    },
+    "devDependencies": {
+    }
+}
