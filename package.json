@@ -16,7 +16,6 @@
     },
     "main": "lib/main.js",
     "dependencies": {
-        "phantomizer-libutil": "maboiteaspam/phantomizer-libutil",
         "ejs": "0.8.x"
     },
     "devDependencies": {
